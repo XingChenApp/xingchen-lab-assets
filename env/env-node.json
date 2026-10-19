@@ -1,18 +1,18 @@
 {
-  "id": "node",
-  "name": "Node 环境",
-  "file": "env-node.zip",
-  "version": "26.4.0",
-  "size": 51475599,
-  "sha256": "74df95356c84225fcbd3415104994b1dfff30af2ba3cf4c8b7d2e672832e5212",
-  "chunkSize": 8388608,
-  "parts": [
-    "env/chunks/node/p00",
-    "env/chunks/node/p01",
-    "env/chunks/node/p02",
-    "env/chunks/node/p03",
-    "env/chunks/node/p04",
-    "env/chunks/node/p05",
-    "env/chunks/node/p06"
-  ]
+ "id": "node",
+ "name": "node",
+ "file": "env-node.zip",
+ "version": "26.4.0-1",
+ "size": 55876413,
+ "sha256": "849cd49072352e8aa60cd8ab69d91596df3ff2fe5feaa4f63b5625ff340e4b21",
+ "chunkSize": 8388608,
+ "parts": [
+  "env/chunks/node/p00",
+  "env/chunks/node/p01",
+  "env/chunks/node/p02",
+  "env/chunks/node/p03",
+  "env/chunks/node/p04",
+  "env/chunks/node/p05",
+  "env/chunks/node/p06"
+ ]
 }
