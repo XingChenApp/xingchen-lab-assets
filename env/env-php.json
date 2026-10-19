@@ -1,17 +1,17 @@
 {
-  "id": "php",
-  "name": "PHP 环境",
-  "file": "env-php.zip",
-  "version": "8.5.1",
-  "size": 49136207,
-  "sha256": "776c92d5828673c23b794b3af16714c3fb8e98b7f6af312bf81a44e4f99e422a",
-  "chunkSize": 8388608,
-  "parts": [
-    "env/chunks/php/p00",
-    "env/chunks/php/p01",
-    "env/chunks/php/p02",
-    "env/chunks/php/p03",
-    "env/chunks/php/p04",
-    "env/chunks/php/p05"
-  ]
+ "id": "php",
+ "name": "php",
+ "file": "env-php.zip",
+ "version": "8.5.1-1",
+ "size": 49454027,
+ "sha256": "6b2cc716e663a203c408a61de389d6f8522cb2e9fc0f1101db202271f149a4c4",
+ "chunkSize": 8388608,
+ "parts": [
+  "env/chunks/php/p00",
+  "env/chunks/php/p01",
+  "env/chunks/php/p02",
+  "env/chunks/php/p03",
+  "env/chunks/php/p04",
+  "env/chunks/php/p05"
+ ]
 }
